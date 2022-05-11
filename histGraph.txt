@@ -1,0 +1,9 @@
+* 07c8728 (HEAD -> task2) history
+*   a271f3f (origin/master, master) Merge pull request #1 from EvgenyKonon/task1
+|\
+| * 827561d (origin/task1, task1) modify empty file
+| * 38a7f30 .
+| * b6bd646 empty file
+* | 94145f9 create readme
+|/
+* 8a32be5 first commit

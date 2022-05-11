@@ -1,0 +1,50 @@
+commit 8a32be5c76df78b472659499730cc8f498b0a8f0
+Author: Evgeny Konon <konan.jack@gmail.com> 2022-05-11 15:30:29
+Committer: Evgeny Konon <konan.jack@gmail.com> 2022-05-11 15:30:29
+Child: 94145f9fa138090ff36ed8a149817aa8a0dd1b58 (create readme)
+Child: b6bd64659106004522253a05f031c822d2ca8725 (empty file)
+Branches: master, task1, task2, origin/master, origin/task1
+
+first commit
+commit b6bd64659106004522253a05f031c822d2ca8725
+Author: Evgeny Konon <konan.jack@gmail.com> 2022-05-11 15:34:11
+Committer: Evgeny Konon <konan.jack@gmail.com> 2022-05-11 15:34:11
+Parent: 8a32be5c76df78b472659499730cc8f498b0a8f0 (first commit)
+Child: 38a7f30d728681d4709067133de9e41ae07f51b2 (.)
+Branches: master, task1, task2, origin/master, origin/task1
+
+empty file
+commit 38a7f30d728681d4709067133de9e41ae07f51b2
+Author: Evgeny Konon <konan.jack@gmail.com> 2022-05-11 15:35:05
+Committer: Evgeny Konon <konan.jack@gmail.com> 2022-05-11 15:35:05
+Parent: b6bd64659106004522253a05f031c822d2ca8725 (empty file)
+Child: 827561d0d905fcff457efd4075aee5cc31490ccf (modify empty file)
+Branches: master, task1, task2, origin/master, origin/task1
+
+.
+commit 94145f9fa138090ff36ed8a149817aa8a0dd1b58
+Author: Evgeny Konon <konan.jack@gmail.com> 2022-05-11 16:23:50
+Committer: Evgeny Konon <konan.jack@gmail.com> 2022-05-11 16:23:50
+Parent: 8a32be5c76df78b472659499730cc8f498b0a8f0 (first commit)
+Child: a271f3fdfef7148daf4c313f6b64492b34929cce (Merge pull request #1 from EvgenyKonon/task1)
+Branches: master, task2, origin/master
+
+create readme
+commit 827561d0d905fcff457efd4075aee5cc31490ccf
+Author: Evgeny Konon <konan.jack@gmail.com> 2022-05-11 16:43:28
+Committer: Evgeny Konon <konan.jack@gmail.com> 2022-05-11 16:43:28
+Parent: 38a7f30d728681d4709067133de9e41ae07f51b2 (.)
+Child: a271f3fdfef7148daf4c313f6b64492b34929cce (Merge pull request #1 from EvgenyKonon/task1)
+Branches: master, task1, task2, origin/master, origin/task1
+
+modify empty file
+commit a271f3fdfef7148daf4c313f6b64492b34929cce
+Author: Evgeny Konon <92843156+EvgenyKonon@users.noreply.github.com> 2022-05-11 16:45:02
+Committer: GitHub <noreply@github.com> 2022-05-11 16:45:02
+Parent: 94145f9fa138090ff36ed8a149817aa8a0dd1b58 (create readme)
+Parent: 827561d0d905fcff457efd4075aee5cc31490ccf (modify empty file)
+Branches: master, task2, origin/master
+
+Merge pull request #1 from EvgenyKonon/task1
+
+Task1
